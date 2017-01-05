@@ -6,6 +6,10 @@
 
 你可以运行项目中的测试，来了解二者的使用方法。
 
+<img src="https://raw.githubusercontent.com/cheng-kang/DanmuManager/master/DanmuManager-1.gif" width="200">
+<img src="https://raw.githubusercontent.com/cheng-kang/DanmuManager/master/DanmuManager-2.gif" width="200">
+<img src="https://raw.githubusercontent.com/cheng-kang/DanmuManager/master/DanmuManager-3.gif" width="200">
+
 ### DanmuManager
 
 1. 创建 DanmuManager
